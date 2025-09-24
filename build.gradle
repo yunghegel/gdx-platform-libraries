@@ -1,0 +1,183 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        maven { url "https://s01.oss.sonatype.org" }
+        gradlePluginPortal()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}"
+        classpath "org.jetbrains.kotlin:kotlin-serialization:${kotlinVersion}" // Added if serialization is needed globally
+        classpath "com.github.johnrengelman:shadow:8.1.1"
+    }
+}
+
+plugins {
+    id 'java-platform'
+    id 'maven-publish'
+}
+
+group = 'dev.jamiecrown.gdx'
+version = "${projectVersion}"
+
+repositories {
+    mavenCentral()
+    google()
+    flatDir {
+        dirs 'libs'
+    }
+    maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
+}
+
+javaPlatform {
+    allowDependencies()
+}
+
+dependencies {
+    constraints {
+        api(project(":core"))
+        api(project(":geometry"))
+        api(project(":examples"))
+        api(project(":gizmos"))
+        api(project(":io"))
+        api(project(":picking"))
+        api(project(":scenegraph"))
+        api(project(":test"))
+    }
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            from components.javaPlatform
+            artifactId = "gdx-platform-libraries"
+        }
+    }
+    repositories {
+        maven {
+            name = "release"
+            url = uri(projectVersion.endsWith("-SNAPSHOT") ? "${snapshotsUrl}" : "${releasesUrl}")
+            credentials {
+                username = projectVersion.endsWith("-SNAPSHOT") ? "${snapshotsUsername}" : "${releasesUsername}"
+                password = projectVersion.endsWith("-SNAPSHOT") ? "${snapshotsPassword}" : "${releasesPassword}"
+            }
+        }
+    }
+}
+
+subprojects {
+    apply plugin: 'org.jetbrains.kotlin.jvm'
+    apply plugin: 'java-library'
+    apply plugin: 'maven-publish'
+    apply plugin: 'com.github.johnrengelman.shadow'
+
+    group = rootProject.group + "." + project.name
+    version = rootProject.version
+
+    repositories {
+        mavenCentral()
+        google()
+        flatDir {
+            dirs rootProject.file('libs')
+        }
+        maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
+    }
+
+    dependencies {
+        implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+        implementation fileTree(dir: rootProject.file('libs'), include: '*.jar')
+        testImplementation platform('org.junit:junit-bom:' + rootProject.ext.junitBomVersion)
+        testImplementation 'org.junit.jupiter:junit-jupiter-api'
+        testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+        testImplementation "org.jetbrains.kotlin:kotlin-test-junit5:${kotlinVersion}" // Using JUnit5 specific Kotlin test
+        
+    }
+
+    java {
+        sourceCompatibility = rootProject.ext.jvmVersion
+        targetCompatibility = rootProject.ext.jvmVersion
+        toolchain {
+            languageVersion = JavaLanguageVersion.of(rootProject.ext.jvmVersion as int)
+        }
+    }
+
+    kotlin {
+        jvmToolchain(rootProject.ext.jvmVersion as int)
+    }
+
+    tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
+        kotlinOptions {
+            jvmTarget = rootProject.ext.jvmVersion
+            freeCompilerArgs += "-Xopt-in=kotlin.RequiresOptIn"
+        }
+    }
+
+    test {
+        useJUnitPlatform()
+    }
+
+    sourceSets {
+        main {
+            java {
+                srcDirs = ['src']
+            }
+            kotlin {
+                srcDirs = ['src']
+            }
+            resources {
+                srcDirs = ['res']
+            }
+        }
+        test {
+            java {
+                srcDirs = ['test']
+            }
+            resources {
+                srcDirs = ['res']
+            }
+            kotlin {
+                srcDirs = ['test']
+            }
+        }
+    }
+
+    shadowJar {
+        archiveClassifier.set('fat')
+    }
+
+    artifacts {
+        archives shadowJar
+    }
+
+    publishing {
+        publications {
+            maven(MavenPublication) {
+                from components.java
+                artifactId = project.name
+            }
+        }
+        repositories {
+            maven {
+                name = "release"
+                url = uri(project.version.endsWith("-SNAPSHOT") ? rootProject.ext.snapshotsUrl : rootProject.ext.releasesUrl)
+                credentials {
+                    username = project.version.endsWith("-SNAPSHOT") ? rootProject.ext.snapshotsUsername : rootProject.ext.releasesUsername
+                    password = project.version.endsWith("-SNAPSHOT") ? rootProject.ext.snapshotsPassword : rootProject.ext.releasesPassword
+                }
+            }
+        }
+    }
+}
+// Add these extensions to rootProject.ext
+ext {
+    kotlinxModulesArray = [""] as String[] // Kept for consistency if needed by other parts
+    jvmVersion = "11" // Make jvmVersion available as an ext property
+    snapshotsUrl = "https://repository.jamiecrown.dev/snapshots"
+    releasesUrl = "https://repository.jamiecrown.dev/releases"
+    snapshotsUsername = "user"
+    releasesUsername = "user"
+    snapshotsPassword = ""
+    releasesPassword = ""
+}

@@ -1,0 +1,8 @@
+
+
+
+
+shadowJar {
+    archiveClassifier.set('fat')
+
+}

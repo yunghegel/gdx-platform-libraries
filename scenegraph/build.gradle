@@ -1,0 +1,12 @@
+
+
+dependencies {
+    api project(':core')
+}
+
+
+
+shadowJar {
+    archiveClassifier.set('fat')
+
+}
