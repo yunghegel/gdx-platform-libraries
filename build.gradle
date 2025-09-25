@@ -17,6 +17,7 @@ buildscript {
 plugins {
     id 'java-platform'
     id 'maven-publish'
+    id 'com.github.johnrengelman.shadow' version '8.1.1'
 }
 
 group = 'dev.jamiecrown.gdx'
@@ -33,7 +34,9 @@ repositories {
 
 javaPlatform {
     allowDependencies()
+
 }
+
 
 dependencies {
     constraints {
@@ -52,18 +55,30 @@ publishing {
     publications {
         maven(MavenPublication) {
             from components.javaPlatform
-            artifactId = "gdx-platform-libraries"
+            artifactId = project.name
+
         }
     }
     repositories {
         maven {
-            name = "release"
-            url = uri(projectVersion.endsWith("-SNAPSHOT") ? "${snapshotsUrl}" : "${releasesUrl}")
+            name =  "snapshots"
+            url = uri("${snapshotsUrl}")
             credentials {
-                username = projectVersion.endsWith("-SNAPSHOT") ? "${snapshotsUsername}" : "${releasesUsername}"
-                password = projectVersion.endsWith("-SNAPSHOT") ? "${snapshotsPassword}" : "${releasesPassword}"
+                username = "${snapshotsUsername}"
+                password = "${snapshotsPassword}"
             }
         }
+        maven {
+            name = "releases"
+            url = uri("${releasesUrl}")
+            credentials {
+                username = "${releasesUsername}"
+                password = "${releasesPassword}"
+            }
+        }
+
+
+
     }
 }
 
@@ -73,7 +88,7 @@ subprojects {
     apply plugin: 'maven-publish'
     apply plugin: 'com.github.johnrengelman.shadow'
 
-    group = rootProject.group + "." + project.name
+    group = rootProject.group
     version = rootProject.version
 
     repositories {
@@ -82,16 +97,43 @@ subprojects {
         flatDir {
             dirs rootProject.file('libs')
         }
+        mavenLocal()
         maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
+        mavenCentral()
+        maven { url "https://s01.oss.sonatype.org" }
+        google()
+        gradlePluginPortal()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://s01.oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://jitpack.io" }
+        maven { url "https://plugins.gradle.org/m2/" }
+        maven {
+            name "snapshots"
+            url "https://repository.jamiecrown.dev/snapshots"
+        }
+        maven {
+            name "releases"
+            url "https://repository.jamiecrown.dev/releases"
+        }
     }
 
     dependencies {
         implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
         implementation fileTree(dir: rootProject.file('libs'), include: '*.jar')
-        testImplementation platform('org.junit:junit-bom:' + rootProject.ext.junitBomVersion)
-        testImplementation 'org.junit.jupiter:junit-jupiter-api'
+        implementation platform('org.junit:junit-bom:5.8.2')
+        implementation 'org.junit.jupiter:junit-jupiter-api'
         testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
-        testImplementation "org.jetbrains.kotlin:kotlin-test-junit5:${kotlinVersion}" // Using JUnit5 specific Kotlin test
+        implementation "org.jetbrains.kotlin:kotlin-test-junit5:${kotlinVersion}" // Using JUnit5 specific Kotlin test
+        implementation 'org.jetbrains.kotlin:kotlin-reflect:2.2.20'
+        implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
+        implementation "com.badlogicgames.gdx:gdx-backend-headless:$gdxVersion"
+        implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+
+
+        testImplementation 'org.junit.jupiter:junit-jupiter-api'
+        if (project.name != "test") {
+            testImplementation project(":test")
+        }
         
     }
 
@@ -147,8 +189,17 @@ subprojects {
         archiveClassifier.set('fat')
     }
 
+    java {
+        withSourcesJar()
+        withJavadocJar()
+    }
+
     artifacts {
         archives shadowJar
+        archives sourcesJar
+        archives javadocJar
+
+
     }
 
     publishing {
@@ -160,7 +211,7 @@ subprojects {
         }
         repositories {
             maven {
-                name = "release"
+                name = "snapshots"
                 url = uri(project.version.endsWith("-SNAPSHOT") ? rootProject.ext.snapshotsUrl : rootProject.ext.releasesUrl)
                 credentials {
                     username = project.version.endsWith("-SNAPSHOT") ? rootProject.ext.snapshotsUsername : rootProject.ext.releasesUsername
@@ -173,7 +224,7 @@ subprojects {
 // Add these extensions to rootProject.ext
 ext {
     kotlinxModulesArray = [""] as String[] // Kept for consistency if needed by other parts
-    jvmVersion = "11" // Make jvmVersion available as an ext property
+    jvmVersion = "17" // Make jvmVersion available as an ext property
     snapshotsUrl = "https://repository.jamiecrown.dev/snapshots"
     releasesUrl = "https://repository.jamiecrown.dev/releases"
     snapshotsUsername = "user"

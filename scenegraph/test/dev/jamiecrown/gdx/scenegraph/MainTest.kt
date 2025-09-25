@@ -4,7 +4,7 @@ import kotlin.test.assertTrue
 
 class MainTest {
     @Test
-    fun 'scenegraph test'() {
+    fun `scenegraph test`() {
         assertTrue(true, "This is a placeholder test.")
     }
 }

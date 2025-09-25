@@ -2,6 +2,7 @@
 
 dependencies {
     api project(':core')
+    implementation "org.mockito:mockito-all:1.9.+"
 }
 
 

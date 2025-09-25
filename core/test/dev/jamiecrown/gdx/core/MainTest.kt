@@ -4,7 +4,7 @@ import kotlin.test.assertTrue
 
 class MainTest {
     @Test
-    fun 'core test'() {
+    fun `core test`() {
         assertTrue(true, "This is a placeholder test.")
     }
 }
