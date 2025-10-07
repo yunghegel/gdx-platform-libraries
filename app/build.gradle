@@ -1,0 +1,8 @@
+group 'dev.jamiecrown.gdx'
+version '0.0.1'
+
+
+dependencies {
+    // Keep dependencies minimal for the demo app to ensure faster builds and fewer cross-module failures.
+    implementation project(':state')
+}

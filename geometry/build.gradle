@@ -1,4 +1,8 @@
 
+ext {
+    gltfVersion = '2.2.1'
+}
+
 
 dependencies {
     api project(':core')

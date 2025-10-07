@@ -1,0 +1,63 @@
+#!/bin/bash
+
+# Usage: ./generate_gradle_subproject.sh <package.path> <project_name> [parent_project]
+# Example: ./generate_gradle_subproject.sh dev.yunghegel.slnt.engine.api.cli new-cli libs
+
+if [[ $# -lt 2 ]]; then
+    echo "Usage: $0 <package.path> <project_name> [parent_project]"
+    exit 1
+fi
+
+PACKAGE_PATH=$1
+PROJECT_NAME=$2
+PARENT_PROJECT=$3  # Optional parent project
+
+# Replace dots in package path with slashes to create directory structure
+PACKAGE_DIR=$(echo "$PACKAGE_PATH" | tr '.' '/')
+
+# Determine the root directory for the new project
+if [[ -n "$PARENT_PROJECT" ]]; then
+    ROOT_DIR="$PARENT_PROJECT/$PROJECT_NAME"
+    INCLUDE_PATH=":$PARENT_PROJECT:$PROJECT_NAME"
+else
+    ROOT_DIR="$PROJECT_NAME"
+    INCLUDE_PATH=":$PROJECT_NAME"
+fi
+
+SRC_MAIN_DIR="$ROOT_DIR/src/$PACKAGE_DIR/$PROJECT_NAME"
+SRC_TEST_DIR="$ROOT_DIR/test/$PACKAGE_DIR/$PROJECT_NAME"
+BUILD_FILE="$ROOT_DIR/build.gradle"
+SETTINGS_GRADLE_FILE="settings.gradle"
+
+# Create directories
+echo "Creating directories..."
+mkdir -p "$SRC_MAIN_DIR"
+mkdir -p "$SRC_TEST_DIR"
+
+# Create `build.gradle` if it doesn't exist
+if [[ ! -f "$BUILD_FILE" ]]; then
+    echo "Creating $BUILD_FILE..."
+    cat <<EOL > "$BUILD_FILE"
+group '$PACKAGE_PATH'
+version '0.0.1'
+id = '$PROJECT_NAME'
+EOL
+else
+    echo "$BUILD_FILE already exists, skipping."
+fi
+
+
+# Append include statement to settings.gradle.kts if it exists
+if [[ -f "$SETTINGS_GRADLE_FILE" ]]; then
+    INCLUDE_STATEMENT="include(\"$INCLUDE_PATH\")"
+    if ! grep -Fxq "$INCLUDE_STATEMENT" "$SETTINGS_GRADLE_FILE"; then
+        echo "Appending include statement to $SETTINGS_GRADLE_FILE..."
+        echo "$INCLUDE_STATEMENT" >> "$SETTINGS_GRADLE_FILE"
+    else
+        echo "Include statement already exists in $SETTINGS_GRADLE_FILE."
+    fi
+else
+    echo "Warning: $SETTINGS_GRADLE_FILE not found. Skipping include statement."
+fi
+
+echo "Gradle subproject '$PROJECT_NAME' created successfully under '$ROOT_DIR'!"

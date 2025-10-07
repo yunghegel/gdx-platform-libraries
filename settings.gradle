@@ -7,3 +7,7 @@ include ':io'
 include ':picking'
 include ':scenegraph'
 include ':test'
+include ':ui'
+include(":state")
+include(":app")
+include(":cli")

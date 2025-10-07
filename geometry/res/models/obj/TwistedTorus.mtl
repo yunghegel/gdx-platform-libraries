@@ -1,0 +1,13 @@
+# Blender MTL File: 'primitives.blend'
+# Material Count: 1
+
+newmtl RandomMaterial.018
+Ns 200.780336
+Ka 0.869922 0.869922 0.869922
+Kd 0.800000 0.800000 0.800000
+Ks 0.347211 0.347211 0.347211
+Ke 0.385349 0.001743 0.690100
+Ni 0.415815
+d 1.000000
+illum 3
+map_Kd uv_debug.png

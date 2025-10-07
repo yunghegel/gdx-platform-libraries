@@ -1,0 +1,7698 @@
+
+uiskin.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+3d-select-edge
+  rotate: false
+  xy: 36, 788
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+3d-select-face
+  rotate: false
+  xy: 1, 706
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+3d-select-point
+  rotate: false
+  xy: 1, 680
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Accessory
+  rotate: false
+  xy: 272, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BulkCreateAccessory
+  rotate: false
+  xy: 272, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CreateAccessory
+  rotate: false
+  xy: 272, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AccessoryFittingTool
+  rotate: false
+  xy: 290, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Accoutrement
+  rotate: false
+  xy: 308, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 308, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Actor
+  rotate: false
+  xy: 326, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptService
+  rotate: false
+  xy: 326, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AdGui
+  rotate: false
+  xy: 344, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AdPortal
+  rotate: false
+  xy: 362, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ExitGame
+  rotate: false
+  xy: 362, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TeleportService
+  rotate: false
+  xy: 362, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AdService
+  rotate: false
+  xy: 380, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Add
+  rotate: false
+  xy: 398, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AddNoBorder
+  rotate: false
+  xy: 398, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+New
+  rotate: false
+  xy: 398, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AddWatch
+  rotate: false
+  xy: 416, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AdvancedDragger
+  rotate: false
+  xy: 434, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Dragger
+  rotate: false
+  xy: 434, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AirController
+  rotate: false
+  xy: 452, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AlignOrientation
+  rotate: false
+  xy: 470, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AlignPosition
+  rotate: false
+  xy: 488, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AlignTool
+  rotate: false
+  xy: 506, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnalysticsService
+  rotate: false
+  xy: 524, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnalyticsService
+  rotate: false
+  xy: 524, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GoogleAnalyticsConfiguration
+  rotate: false
+  xy: 524, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RbxAnalyticsService
+  rotate: false
+  xy: 524, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnalysticsSettings
+  rotate: false
+  xy: 542, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Anchor
+  rotate: false
+  xy: 560, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AngularVelocity
+  rotate: false
+  xy: 578, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Torque
+  rotate: false
+  xy: 578, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VelocityMotor
+  rotate: false
+  xy: 578, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Animation
+  rotate: false
+  xy: 596, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationEditor
+  rotate: false
+  xy: 596, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TrackerStreamAnimation
+  rotate: false
+  xy: 596, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tween
+  rotate: false
+  xy: 596, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TweenBase
+  rotate: false
+  xy: 596, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TweenService
+  rotate: false
+  xy: 596, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationClip
+  rotate: false
+  xy: 614, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationClipProvider
+  rotate: false
+  xy: 632, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationController
+  rotate: false
+  xy: 650, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationFromVideoCreatorService
+  rotate: false
+  xy: 668, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationFromVideoCreatorStudioService
+  rotate: false
+  xy: 668, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationRigData
+  rotate: false
+  xy: 686, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BuildRig
+  rotate: false
+  xy: 686, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationStreamTrack
+  rotate: false
+  xy: 704, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AnimationTrack
+  rotate: false
+  xy: 704, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Animator
+  rotate: false
+  xy: 722, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AppStorageService
+  rotate: false
+  xy: 740, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LocalStorageService
+  rotate: false
+  xy: 740, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MemStorageService
+  rotate: false
+  xy: 740, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Save
+  rotate: false
+  xy: 740, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AppUpdateService
+  rotate: false
+  xy: 758, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UpdateAvailable
+  rotate: false
+  xy: 758, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ArcHandles
+  rotate: false
+  xy: 776, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Archive
+  rotate: false
+  xy: 794, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ArrowRight
+  rotate: false
+  xy: 812, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetCounterService
+  rotate: false
+  xy: 830, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Value
+  rotate: false
+  xy: 830, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetDeliveryProxy
+  rotate: false
+  xy: 848, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetImportService
+  rotate: false
+  xy: 866, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImportMesh
+  rotate: false
+  xy: 866, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PublishService
+  rotate: false
+  xy: 866, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioPublishService
+  rotate: false
+  xy: 866, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetImportSession
+  rotate: false
+  xy: 884, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetManagerService
+  rotate: false
+  xy: 30, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetService
+  rotate: false
+  xy: 30, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CorePackages
+  rotate: false
+  xy: 30, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PackageService
+  rotate: false
+  xy: 30, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Packages
+  rotate: false
+  xy: 30, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetSoundEffect
+  rotate: false
+  xy: 27, 706
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CustomSoundEffect
+  rotate: false
+  xy: 27, 706
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SoundEffect
+  rotate: false
+  xy: 27, 706
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Atmosphere
+  rotate: false
+  xy: 27, 688
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Attachment
+  rotate: false
+  xy: 27, 670
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Plugin
+  rotate: false
+  xy: 27, 670
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AvatarEditorService
+  rotate: false
+  xy: 27, 652
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CharacterAppearance
+  rotate: false
+  xy: 27, 652
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AvatarImportService
+  rotate: false
+  xy: 27, 634
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AvatarImporter
+  rotate: false
+  xy: 27, 634
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 27, 616
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Backpack
+  rotate: false
+  xy: 27, 598
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InventoryTab_Default
+  rotate: false
+  xy: 27, 598
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InventoryTab_Selected
+  rotate: false
+  xy: 27, 598
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StarterGear
+  rotate: false
+  xy: 27, 598
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StarterPack
+  rotate: false
+  xy: 27, 598
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BackpackItem
+  rotate: false
+  xy: 27, 580
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tool
+  rotate: false
+  xy: 27, 580
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BadgeService
+  rotate: false
+  xy: 27, 562
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BallSocketConstraint
+  rotate: false
+  xy: 27, 544
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BallInSocket
+  rotate: false
+  xy: 27, 544
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BasePart
+  rotate: false
+  xy: 25, 526
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FormFactorPart
+  rotate: false
+  xy: 25, 526
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Part
+  rotate: false
+  xy: 25, 526
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Part_Block
+  rotate: false
+  xy: 25, 526
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BasePlate
+  rotate: false
+  xy: 25, 508
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BasePlayerGui
+  rotate: false
+  xy: 25, 490
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BaseScript
+  rotate: false
+  xy: 25, 472
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LuaSourceContainer
+  rotate: false
+  xy: 25, 472
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Script
+  rotate: false
+  xy: 25, 472
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BaseWrap
+  rotate: false
+  xy: 25, 454
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WrapLayer
+  rotate: false
+  xy: 25, 454
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Beam
+  rotate: false
+  xy: 25, 436
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BevelMesh
+  rotate: false
+  xy: 25, 418
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataModelMesh
+  rotate: false
+  xy: 25, 418
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FileMesh
+  rotate: false
+  xy: 25, 418
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SpecialMesh
+  rotate: false
+  xy: 25, 418
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BillboardGui
+  rotate: false
+  xy: 25, 400
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BinaryStringValue
+  rotate: false
+  xy: 24, 382
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StringValue
+  rotate: false
+  xy: 24, 382
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BindableEvent
+  rotate: false
+  xy: 24, 364
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CustomEvent
+  rotate: false
+  xy: 24, 364
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Event
+  rotate: false
+  xy: 24, 364
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BindableFunction
+  rotate: false
+  xy: 24, 346
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Function
+  rotate: false
+  xy: 24, 346
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BlockMesh
+  rotate: false
+  xy: 24, 328
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BloomEffect
+  rotate: false
+  xy: 24, 310
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BlurEffect
+  rotate: false
+  xy: 24, 292
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyAngularVelocity
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyForce
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyGyro
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyMover
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyPosition
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyThrust
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyVelocity
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RocketPropulsion
+  rotate: false
+  xy: 24, 274
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BodyColors
+  rotate: false
+  xy: 24, 256
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Color
+  rotate: false
+  xy: 24, 256
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ColorPicker
+  rotate: false
+  xy: 24, 256
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioTheme
+  rotate: false
+  xy: 24, 256
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Bold_Default
+  rotate: false
+  xy: 24, 238
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Bold_Selected
+  rotate: false
+  xy: 24, 220
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Bone
+  rotate: false
+  xy: 24, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BoolValue
+  rotate: false
+  xy: 24, 184
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BoxHandleAdornment
+  rotate: false
+  xy: 24, 166
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Breakpoint
+  rotate: false
+  xy: 24, 148
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerBreakpoint
+  rotate: false
+  xy: 24, 148
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BreakpointManager
+  rotate: false
+  xy: 24, 130
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Breakpoints
+  rotate: false
+  xy: 24, 130
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MetaBreakpointManager
+  rotate: false
+  xy: 24, 130
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BrickColorValue
+  rotate: false
+  xy: 24, 112
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BrowserService
+  rotate: false
+  xy: 24, 94
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BubbleChatConfiguration
+  rotate: false
+  xy: 24, 76
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ChatWindowConfiguration
+  rotate: false
+  xy: 24, 76
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextChatConfigurations
+  rotate: false
+  xy: 24, 76
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BulkImportService
+  rotate: false
+  xy: 24, 58
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CFrameValue
+  rotate: false
+  xy: 24, 40
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CSGDictionaryService
+  rotate: false
+  xy: 24, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NonReplicatedCSGDictionaryService
+  rotate: false
+  xy: 24, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CacheableContentProvider
+  rotate: false
+  xy: 24, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ContentProvider
+  rotate: false
+  xy: 24, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SolidModelContentProvider
+  rotate: false
+  xy: 24, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CalloutService
+  rotate: false
+  xy: 48, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Dialog
+  rotate: false
+  xy: 48, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Camera
+  rotate: false
+  xy: 66, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScreenShot
+  rotate: false
+  xy: 66, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CanvasGroup
+  rotate: false
+  xy: 84, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Group
+  rotate: false
+  xy: 84, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Modelgroups
+  rotate: false
+  xy: 84, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CatalogPages
+  rotate: false
+  xy: 45, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Copy
+  rotate: false
+  xy: 45, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MultipleDocumentInterfaceInstance
+  rotate: false
+  xy: 45, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Pages
+  rotate: false
+  xy: 45, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StandardPages
+  rotate: false
+  xy: 45, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ChangeHistoryService
+  rotate: false
+  xy: 45, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Recent
+  rotate: false
+  xy: 45, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VersionControlService
+  rotate: false
+  xy: 45, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ChannelSelectorSoundEffect
+  rotate: false
+  xy: 63, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CharacterMesh
+  rotate: false
+  xy: 45, 667
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Chat
+  rotate: false
+  xy: 63, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ChatInputBarConfiguration
+  rotate: false
+  xy: 81, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ChorusSoundEffect
+  rotate: false
+  xy: 45, 649
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Cleanup
+  rotate: false
+  xy: 63, 667
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ClearStats
+  rotate: false
+  xy: 63, 667
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Delete
+  rotate: false
+  xy: 63, 667
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ClickDetector
+  rotate: false
+  xy: 81, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Pointer
+  rotate: false
+  xy: 81, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TouchInputService
+  rotate: false
+  xy: 81, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ClientReplicator
+  rotate: false
+  xy: 45, 631
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NetworkReplicator
+  rotate: false
+  xy: 45, 631
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ClientRunContext
+  rotate: false
+  xy: 63, 649
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LegacyClientRunContext
+  rotate: false
+  xy: 63, 649
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ClimbController
+  rotate: false
+  xy: 81, 667
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CloseWidget
+  rotate: false
+  xy: 45, 613
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Clothing
+  rotate: false
+  xy: 63, 631
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Clouds
+  rotate: false
+  xy: 81, 649
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ClusterPacketCache
+  rotate: false
+  xy: 45, 595
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Collapse
+  rotate: false
+  xy: 63, 613
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CollapseAll
+  rotate: false
+  xy: 81, 631
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CollectionService
+  rotate: false
+  xy: 45, 577
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CollisionGroups
+  rotate: false
+  xy: 63, 595
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Color3Value
+  rotate: false
+  xy: 81, 613
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ColorCorrectionEffect
+  rotate: false
+  xy: 45, 559
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CommandInstance
+  rotate: false
+  xy: 63, 577
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CommandBar
+  rotate: false
+  xy: 63, 577
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CommandService
+  rotate: false
+  xy: 81, 595
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CompressorSoundEffect
+  rotate: false
+  xy: 63, 559
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ConditionalBreakpointDisabled
+  rotate: false
+  xy: 81, 577
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ConeHandleAdornment
+  rotate: false
+  xy: 81, 559
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Configuration
+  rotate: false
+  xy: 45, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ConfigureServerService
+  rotate: false
+  xy: 63, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Constraint
+  rotate: false
+  xy: 81, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ConstraintDetails
+  rotate: false
+  xy: 81, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CreateConstraints
+  rotate: false
+  xy: 81, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Constructor
+  rotate: false
+  xy: 43, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ContextActionService
+  rotate: false
+  xy: 43, 505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VehicleController
+  rotate: false
+  xy: 43, 505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VehicleSeat
+  rotate: false
+  xy: 43, 505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Controller
+  rotate: false
+  xy: 61, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UserInputService
+  rotate: false
+  xy: 61, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ControllerBase
+  rotate: false
+  xy: 43, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GroundController
+  rotate: false
+  xy: 43, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+QuickOpen
+  rotate: false
+  xy: 43, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+QuickOpenActions
+  rotate: false
+  xy: 43, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ControllerManager
+  rotate: false
+  xy: 61, 505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ControllerService
+  rotate: false
+  xy: 79, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GamepadService
+  rotate: false
+  xy: 79, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MyGame
+  rotate: false
+  xy: 79, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CookiesService
+  rotate: false
+  xy: 43, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CoreGui
+  rotate: false
+  xy: 61, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CoreScript
+  rotate: false
+  xy: 79, 505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CoreScriptSyncService
+  rotate: false
+  xy: 43, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LSPFileSyncService
+  rotate: false
+  xy: 43, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptRecovery
+  rotate: false
+  xy: 43, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CornerWedgePart
+  rotate: false
+  xy: 61, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Part_CornerWedge
+  rotate: false
+  xy: 61, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CrossDMScriptChangeListener
+  rotate: false
+  xy: 79, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptChangeService
+  rotate: false
+  xy: 79, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptCloneWatcher
+  rotate: false
+  xy: 79, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptCloneWatcherHelper
+  rotate: false
+  xy: 79, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CurveAnimation
+  rotate: false
+  xy: 43, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+EulerRotationCurve
+  rotate: false
+  xy: 43, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FloatCurve
+  rotate: false
+  xy: 43, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RotationCurve
+  rotate: false
+  xy: 43, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Vector3Curve
+  rotate: false
+  xy: 43, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CustomEventReceiver
+  rotate: false
+  xy: 61, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioScriptDebugEventListener
+  rotate: false
+  xy: 61, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CylinderHandleAdornment
+  rotate: false
+  xy: 79, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CylinderMesh
+  rotate: false
+  xy: 43, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CylindricalConstraint
+  rotate: false
+  xy: 61, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Cylindrical
+  rotate: false
+  xy: 61, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataModel
+  rotate: false
+  xy: 79, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Class
+  rotate: false
+  xy: 79, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataModelSession
+  rotate: false
+  xy: 79, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Explorer
+  rotate: false
+  xy: 79, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataModelPatchService
+  rotate: false
+  xy: 61, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IncrementalPatchBuilder
+  rotate: false
+  xy: 61, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PatchMapping
+  rotate: false
+  xy: 61, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStore
+  rotate: false
+  xy: 79, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreService
+  rotate: false
+  xy: 79, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreIncrementOptions
+  rotate: false
+  xy: 79, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreOptions
+  rotate: false
+  xy: 79, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreSetOptions
+  rotate: false
+  xy: 79, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreInfo
+  rotate: false
+  xy: 43, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreKey
+  rotate: false
+  xy: 61, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Keyword
+  rotate: false
+  xy: 61, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LoginService
+  rotate: false
+  xy: 61, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SessionService
+  rotate: false
+  xy: 61, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreKeyInfo
+  rotate: false
+  xy: 79, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreKeyPages
+  rotate: false
+  xy: 42, 379
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreListingPages
+  rotate: false
+  xy: 42, 361
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStorePages
+  rotate: false
+  xy: 42, 361
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreVersionPages
+  rotate: false
+  xy: 42, 361
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DataStoreObjectVersionInfo
+  rotate: false
+  xy: 60, 379
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Debris
+  rotate: false
+  xy: 42, 343
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebugSettings
+  rotate: false
+  xy: 60, 361
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggablePluginWatcher
+  rotate: false
+  xy: 78, 379
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerConnection
+  rotate: false
+  xy: 42, 325
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerConnectionManager
+  rotate: false
+  xy: 42, 325
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LocalDebuggerConnection
+  rotate: false
+  xy: 42, 325
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerLuaResponse
+  rotate: false
+  xy: 60, 343
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptDebugger
+  rotate: false
+  xy: 60, 343
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerManager
+  rotate: false
+  xy: 78, 361
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerUIService
+  rotate: false
+  xy: 42, 307
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerVariable
+  rotate: false
+  xy: 60, 325
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DebuggerWatch
+  rotate: false
+  xy: 78, 343
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DrawOnTop
+  rotate: false
+  xy: 78, 343
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Watch
+  rotate: false
+  xy: 78, 343
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Decal
+  rotate: false
+  xy: 42, 289
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DeleteAllBreakpoints
+  rotate: false
+  xy: 60, 307
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DeleteSelectedBreakpoints
+  rotate: false
+  xy: 78, 325
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DepthOfFieldEffect
+  rotate: false
+  xy: 42, 271
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PostEffect
+  rotate: false
+  xy: 42, 271
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DeviceIdService
+  rotate: false
+  xy: 60, 289
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DialogChoice
+  rotate: false
+  xy: 78, 307
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Message
+  rotate: false
+  xy: 78, 307
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextChannel
+  rotate: false
+  xy: 78, 307
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VoiceChannel
+  rotate: false
+  xy: 78, 307
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DisableAllBreakpoints
+  rotate: false
+  xy: 42, 253
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DistortionSoundEffect
+  rotate: false
+  xy: 60, 271
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DockWidgetPluginGui
+  rotate: false
+  xy: 78, 289
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginGui
+  rotate: false
+  xy: 78, 289
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+QWidgetPluginGui
+  rotate: false
+  xy: 78, 289
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DoubleConstrainedValue
+  rotate: false
+  xy: 42, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NumberValue
+  rotate: false
+  xy: 42, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Download
+  rotate: false
+  xy: 60, 253
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DraftsService
+  rotate: false
+  xy: 78, 271
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Draft
+  rotate: false
+  xy: 78, 271
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptEditorService
+  rotate: false
+  xy: 78, 271
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DraggerService
+  rotate: false
+  xy: 42, 217
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectAll
+  rotate: false
+  xy: 42, 217
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DropdownArrow
+  rotate: false
+  xy: 60, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ArrowDown
+  rotate: false
+  xy: 60, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScrollbarDown
+  rotate: false
+  xy: 60, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Duplicate
+  rotate: false
+  xy: 78, 253
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+DynamicRotate
+  rotate: false
+  xy: 42, 199
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Motor6D
+  rotate: false
+  xy: 42, 199
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+EchoSoundEffect
+  rotate: false
+  xy: 60, 217
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+EmotesPages
+  rotate: false
+  xy: 78, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+OutfitPages
+  rotate: false
+  xy: 78, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Enum
+  rotate: false
+  xy: 42, 181
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+EnumMember
+  rotate: false
+  xy: 60, 199
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+EqualizerSoundEffect
+  rotate: false
+  xy: 78, 217
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Error
+  rotate: false
+  xy: 42, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+EventIngestService
+  rotate: false
+  xy: 60, 181
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Expand
+  rotate: false
+  xy: 78, 199
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ExpandAll
+  rotate: false
+  xy: 42, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 60, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FaceAnimatorService
+  rotate: false
+  xy: 78, 181
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FaceControls
+  rotate: false
+  xy: 42, 127
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FaceInstance
+  rotate: false
+  xy: 60, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SurfaceSelection
+  rotate: false
+  xy: 60, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FacialAnimationRecordingService
+  rotate: false
+  xy: 78, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FacialAnimationStreamingService
+  rotate: false
+  xy: 42, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Favorited
+  rotate: false
+  xy: 60, 127
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Feature
+  rotate: false
+  xy: 78, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Hole
+  rotate: false
+  xy: 78, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MotorFeature
+  rotate: false
+  xy: 78, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+File
+  rotate: false
+  xy: 42, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LocalFile
+  rotate: false
+  xy: 42, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NewFile
+  rotate: false
+  xy: 42, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Filter
+  rotate: false
+  xy: 60, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FindAll
+  rotate: false
+  xy: 78, 127
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FindNext
+  rotate: false
+  xy: 42, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FindPrevious
+  rotate: false
+  xy: 60, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 78, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Flag
+  rotate: false
+  xy: 42, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Team
+  rotate: false
+  xy: 42, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FlagStand
+  rotate: false
+  xy: 60, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FlagStandService
+  rotate: false
+  xy: 60, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FlangeSoundEffect
+  rotate: false
+  xy: 78, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FloorWire
+  rotate: false
+  xy: 42, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FlyweightService
+  rotate: false
+  xy: 60, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Folder
+  rotate: false
+  xy: 78, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ForceField
+  rotate: false
+  xy: 42, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PermissionsService
+  rotate: false
+  xy: 42, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FormatDocument
+  rotate: false
+  xy: 42, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FormatSelection
+  rotate: false
+  xy: 60, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 78, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FriendPages
+  rotate: false
+  xy: 60, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FriendService
+  rotate: false
+  xy: 60, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FullScreen
+  rotate: false
+  xy: 78, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FunctionalTest
+  rotate: false
+  xy: 78, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ConditionalBreakpoint
+  rotate: false
+  xy: 78, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TestService
+  rotate: false
+  xy: 78, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Fwd
+  rotate: false
+  xy: 78, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GamePassService
+  rotate: false
+  xy: 102, 721
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GameSettings
+  rotate: false
+  xy: 99, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UserGameSettings
+  rotate: false
+  xy: 99, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VirtualInputManager
+  rotate: false
+  xy: 99, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GenericSettings
+  rotate: false
+  xy: 99, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Settings
+  rotate: false
+  xy: 99, 685
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Geometry
+  rotate: false
+  xy: 99, 667
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TypeParameter
+  rotate: false
+  xy: 99, 667
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GetTextBoundsParams
+  rotate: false
+  xy: 99, 649
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Unit
+  rotate: false
+  xy: 99, 649
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GlobalDataStore
+  rotate: false
+  xy: 99, 631
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GlobalSettings
+  rotate: false
+  xy: 99, 613
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Glue
+  rotate: false
+  xy: 99, 595
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ManualGlue
+  rotate: false
+  xy: 99, 595
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Rigid
+  rotate: false
+  xy: 99, 595
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RigidConstraint
+  rotate: false
+  xy: 99, 595
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GoToLine
+  rotate: false
+  xy: 99, 577
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GridMaterial
+  rotate: false
+  xy: 99, 559
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GroupService
+  rotate: false
+  xy: 99, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SocialService
+  rotate: false
+  xy: 99, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ThirdPartyUserService
+  rotate: false
+  xy: 99, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiBase
+  rotate: false
+  xy: 97, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Client
+  rotate: false
+  xy: 97, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiBase2d
+  rotate: false
+  xy: 97, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiObject
+  rotate: false
+  xy: 97, 523
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiBase3d
+  rotate: false
+  xy: 97, 505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NegateOperation
+  rotate: false
+  xy: 97, 505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiButton
+  rotate: false
+  xy: 97, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiLabel
+  rotate: false
+  xy: 97, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiMain
+  rotate: false
+  xy: 97, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Interface
+  rotate: false
+  xy: 97, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScreenGui
+  rotate: false
+  xy: 97, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuiService
+  rotate: false
+  xy: 97, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlayerGui
+  rotate: false
+  xy: 97, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StarterGui
+  rotate: false
+  xy: 97, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SwitchWindows
+  rotate: false
+  xy: 97, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UI
+  rotate: false
+  xy: 97, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GuidRegistryService
+  rotate: false
+  xy: 97, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HSRDataContentProvider
+  rotate: false
+  xy: 97, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HandleAdornment
+  rotate: false
+  xy: 96, 379
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PVAdornment
+  rotate: false
+  xy: 96, 379
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Handles
+  rotate: false
+  xy: 96, 361
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HandlesBase
+  rotate: false
+  xy: 96, 361
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HapticService
+  rotate: false
+  xy: 96, 343
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HeightmapImporterService
+  rotate: false
+  xy: 96, 325
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sky
+  rotate: false
+  xy: 96, 325
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Help
+  rotate: false
+  xy: 96, 307
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HiddenSurfaceRemovalAsset
+  rotate: false
+  xy: 96, 289
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VisibilityService
+  rotate: false
+  xy: 96, 289
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Highlight
+  rotate: false
+  xy: 96, 271
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HingeConstraint
+  rotate: false
+  xy: 96, 253
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Hinge
+  rotate: false
+  xy: 96, 253
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Hint
+  rotate: false
+  xy: 96, 235
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Hopper
+  rotate: false
+  xy: 96, 217
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HopperBin
+  rotate: false
+  xy: 96, 199
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HorizontalDoubleArrow
+  rotate: false
+  xy: 96, 181
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HttpRbxApiService
+  rotate: false
+  xy: 96, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HttpService
+  rotate: false
+  xy: 96, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HttpRequest
+  rotate: false
+  xy: 96, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Humanoid
+  rotate: false
+  xy: 96, 127
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Status
+  rotate: false
+  xy: 96, 127
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HumanoidController
+  rotate: false
+  xy: 96, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HumanoidDescription
+  rotate: false
+  xy: 96, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IKControl
+  rotate: false
+  xy: 96, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ILegacyStudioBridge
+  rotate: false
+  xy: 96, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LegacyStudioBridge
+  rotate: false
+  xy: 96, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IXPService
+  rotate: false
+  xy: 96, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImageButton
+  rotate: false
+  xy: 96, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImageHandleAdornment
+  rotate: false
+  xy: 96, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImageLabel
+  rotate: false
+  xy: 902, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterAnimationSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterBaseSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterFacsSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterGroupSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterJointSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterMaterialSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterMeshSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ImporterRootSettings
+  rotate: false
+  xy: 920, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InputObject
+  rotate: false
+  xy: 938, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InsertService
+  rotate: false
+  xy: 956, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InsertObject
+  rotate: false
+  xy: 956, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Instance
+  rotate: false
+  xy: 179, 935
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Placeholder
+  rotate: false
+  xy: 179, 935
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InstanceAdornment
+  rotate: false
+  xy: 197, 936
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PartAdornment
+  rotate: false
+  xy: 197, 936
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IntConstrainedValue
+  rotate: false
+  xy: 215, 936
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IntValue
+  rotate: false
+  xy: 215, 936
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InvalidBreakpoint
+  rotate: false
+  xy: 233, 940
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InvalidLogpoint
+  rotate: false
+  xy: 179, 917
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+InventoryPages
+  rotate: false
+  xy: 197, 918
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Italic_Default
+  rotate: false
+  xy: 215, 918
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Italic_Selected
+  rotate: false
+  xy: 233, 922
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+JointInstance
+  rotate: false
+  xy: 103, 909
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ManualSurfaceJointInstance
+  rotate: false
+  xy: 103, 909
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ManualWeld
+  rotate: false
+  xy: 103, 909
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Weld
+  rotate: false
+  xy: 103, 909
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+JointsService
+  rotate: false
+  xy: 102, 891
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+KeyboardService
+  rotate: false
+  xy: 102, 873
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Keyframe
+  rotate: false
+  xy: 102, 855
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+KeyframeMarker
+  rotate: false
+  xy: 121, 909
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+KeyframeSequence
+  rotate: false
+  xy: 120, 891
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+KeyframeSequenceProvider
+  rotate: false
+  xy: 120, 873
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LanguageService
+  rotate: false
+  xy: 120, 855
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LocalizationTable
+  rotate: false
+  xy: 120, 855
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Translator
+  rotate: false
+  xy: 120, 855
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LayerCollector
+  rotate: false
+  xy: 139, 911
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LegacyServerRunContext
+  rotate: false
+  xy: 157, 912
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ServerRunContext
+  rotate: false
+  xy: 157, 912
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 113, 837
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PointLight
+  rotate: false
+  xy: 113, 837
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Lighting
+  rotate: false
+  xy: 113, 819
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LineForce
+  rotate: false
+  xy: 111, 801
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LineHandleAdornment
+  rotate: false
+  xy: 108, 783
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LinearVelocity
+  rotate: false
+  xy: 131, 837
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LocalScript
+  rotate: false
+  xy: 131, 819
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LocalizationService
+  rotate: false
+  xy: 129, 801
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LocalizationTools
+  rotate: false
+  xy: 129, 801
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Lock
+  rotate: false
+  xy: 126, 783
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LockTool
+  rotate: false
+  xy: 126, 783
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LockAll
+  rotate: false
+  xy: 233, 904
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LodDataEntity
+  rotate: false
+  xy: 105, 764
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LodDataService
+  rotate: false
+  xy: 105, 764
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LogService
+  rotate: false
+  xy: 123, 765
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Output
+  rotate: false
+  xy: 123, 765
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Logpoint
+  rotate: false
+  xy: 113, 746
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LogpointDisabled
+  rotate: false
+  xy: 131, 747
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LuaSettings
+  rotate: false
+  xy: 141, 765
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LuaWebService
+  rotate: false
+  xy: 144, 783
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LuauScriptAnalyzerService
+  rotate: false
+  xy: 147, 801
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ManagePlugins
+  rotate: false
+  xy: 149, 747
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MarkerCurve
+  rotate: false
+  xy: 159, 765
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MarketplaceService
+  rotate: false
+  xy: 162, 783
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MarketplaceIcon
+  rotate: false
+  xy: 162, 783
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MatchCase
+  rotate: false
+  xy: 167, 747
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextString
+  rotate: false
+  xy: 167, 747
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MaterialService
+  rotate: false
+  xy: 177, 765
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Material
+  rotate: false
+  xy: 177, 765
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MaterialVariant
+  rotate: false
+  xy: 185, 747
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MemStorageConnection
+  rotate: false
+  xy: 120, 728
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MemoryStoreQueue
+  rotate: false
+  xy: 138, 729
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MemoryStoreService
+  rotate: false
+  xy: 156, 729
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MemoryStoreSortedMap
+  rotate: false
+  xy: 174, 729
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MeshContentProvider
+  rotate: false
+  xy: 192, 729
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TemporaryCageMeshProvider
+  rotate: false
+  xy: 192, 729
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MeshPart
+  rotate: false
+  xy: 120, 710
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Meshparts
+  rotate: false
+  xy: 120, 710
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MessageBusConnection
+  rotate: false
+  xy: 138, 711
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MessageBusService
+  rotate: false
+  xy: 156, 711
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MessagingService
+  rotate: false
+  xy: 174, 711
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RtMessagingService
+  rotate: false
+  xy: 174, 711
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextChatMessage
+  rotate: false
+  xy: 174, 711
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MetaBreakpoint
+  rotate: false
+  xy: 192, 711
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MetaBreakpointContext
+  rotate: false
+  xy: 117, 692
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Method
+  rotate: false
+  xy: 117, 674
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Model
+  rotate: false
+  xy: 117, 656
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Modified
+  rotate: false
+  xy: 117, 638
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ModifiedPackage
+  rotate: false
+  xy: 117, 620
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Module
+  rotate: false
+  xy: 117, 602
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ModuleScript
+  rotate: false
+  xy: 117, 584
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+More
+  rotate: false
+  xy: 117, 566
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Motor
+  rotate: false
+  xy: 117, 548
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Rotate
+  rotate: false
+  xy: 117, 548
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RotateP
+  rotate: false
+  xy: 117, 548
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RotateV
+  rotate: false
+  xy: 117, 548
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Rotate_P
+  rotate: false
+  xy: 117, 548
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Mouse
+  rotate: false
+  xy: 117, 530
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MouseService
+  rotate: false
+  xy: 117, 530
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlayerMouse
+  rotate: false
+  xy: 117, 530
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Move
+  rotate: false
+  xy: 115, 512
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Move_P
+  rotate: false
+  xy: 115, 512
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Mute
+  rotate: false
+  xy: 115, 494
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NetworkClient
+  rotate: false
+  xy: 115, 476
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NetworkMarker
+  rotate: false
+  xy: 115, 458
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NetworkPeer
+  rotate: false
+  xy: 115, 440
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NetworkServer
+  rotate: false
+  xy: 115, 422
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NetworkSettings
+  rotate: false
+  xy: 115, 404
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NoCollisionConstraint
+  rotate: false
+  xy: 115, 386
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NoCollision
+  rotate: false
+  xy: 115, 386
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NotFavorited
+  rotate: false
+  xy: 114, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FavoritesTab_Default
+  rotate: false
+  xy: 114, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FavoritesTab_Selected
+  rotate: false
+  xy: 114, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NotificationService
+  rotate: false
+  xy: 114, 350
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NumberPose
+  rotate: false
+  xy: 114, 332
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ObjectBrowser
+  rotate: false
+  xy: 114, 314
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ObjectValue
+  rotate: false
+  xy: 114, 296
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Open
+  rotate: false
+  xy: 114, 278
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+OpenScriptFunctionFilter
+  rotate: false
+  xy: 114, 260
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Operator
+  rotate: false
+  xy: 114, 242
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+OrderedDataStore
+  rotate: false
+  xy: 114, 224
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PVInstance
+  rotate: false
+  xy: 114, 206
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+EditPivot
+  rotate: false
+  xy: 114, 206
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Package
+  rotate: false
+  xy: 114, 188
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PackageLink
+  rotate: false
+  xy: 114, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PackageUIService
+  rotate: false
+  xy: 114, 152
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AssetManager
+  rotate: false
+  xy: 114, 152
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Pants
+  rotate: false
+  xy: 114, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ParabolaAdornment
+  rotate: false
+  xy: 114, 116
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PartOperation
+  rotate: false
+  xy: 114, 98
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UnionOperation
+  rotate: false
+  xy: 114, 98
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PartOperationAsset
+  rotate: false
+  xy: 114, 80
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Part_Cylinder
+  rotate: false
+  xy: 114, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Part_Sphere
+  rotate: false
+  xy: 114, 44
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ParticleEmitter
+  rotate: false
+  xy: 114, 26
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Effects
+  rotate: false
+  xy: 114, 26
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Paste
+  rotate: false
+  xy: 114, 8
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Path
+  rotate: false
+  xy: 974, 962
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PathfindingLink
+  rotate: false
+  xy: 992, 964
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PathfindingModifier
+  rotate: false
+  xy: 135, 692
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PathfindingService
+  rotate: false
+  xy: 135, 674
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PausedState
+  rotate: false
+  xy: 135, 656
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Pause
+  rotate: false
+  xy: 135, 656
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PausedStateBreakpoint
+  rotate: false
+  xy: 135, 638
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PausedStateException
+  rotate: false
+  xy: 135, 620
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Performance
+  rotate: false
+  xy: 135, 602
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PhysicsService
+  rotate: false
+  xy: 135, 584
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ProcessInstancePhysicsService
+  rotate: false
+  xy: 135, 584
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PhysicsSettings
+  rotate: false
+  xy: 135, 566
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PitchShiftSoundEffect
+  rotate: false
+  xy: 135, 548
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlaceCloud
+  rotate: false
+  xy: 135, 530
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlaceLocal
+  rotate: false
+  xy: 133, 512
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Plane
+  rotate: false
+  xy: 133, 494
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlaneConstraint
+  rotate: false
+  xy: 133, 494
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Platform
+  rotate: false
+  xy: 133, 476
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SkateboardController
+  rotate: false
+  xy: 133, 476
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SkateboardPlatform
+  rotate: false
+  xy: 133, 476
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Play
+  rotate: false
+  xy: 133, 458
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlayHere
+  rotate: false
+  xy: 133, 440
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Player
+  rotate: false
+  xy: 133, 422
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StarterPlayer
+  rotate: false
+  xy: 133, 422
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VirtualUser
+  rotate: false
+  xy: 133, 422
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlayerEmulatorService
+  rotate: false
+  xy: 133, 404
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PlayerScripts
+  rotate: false
+  xy: 133, 386
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StarterPlayerScripts
+  rotate: false
+  xy: 133, 386
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Players
+  rotate: false
+  xy: 132, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TeamTest
+  rotate: false
+  xy: 132, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UserService
+  rotate: false
+  xy: 132, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginAction
+  rotate: false
+  xy: 132, 350
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginDebugService
+  rotate: false
+  xy: 132, 332
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginDragEvent
+  rotate: false
+  xy: 132, 314
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginGuiService
+  rotate: false
+  xy: 132, 296
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginManagementService
+  rotate: false
+  xy: 132, 278
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginManager
+  rotate: false
+  xy: 132, 278
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginManagerInterface
+  rotate: false
+  xy: 132, 260
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginMenu
+  rotate: false
+  xy: 132, 242
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginMouse
+  rotate: false
+  xy: 132, 224
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginPolicyService
+  rotate: false
+  xy: 132, 206
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PolicyService
+  rotate: false
+  xy: 132, 206
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginRunContext
+  rotate: false
+  xy: 132, 188
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginToolbar
+  rotate: false
+  xy: 132, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginToolbarButton
+  rotate: false
+  xy: 132, 152
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PointsService
+  rotate: false
+  xy: 132, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Pose
+  rotate: false
+  xy: 132, 116
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PoseBase
+  rotate: false
+  xy: 132, 116
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PrismaticConstraint
+  rotate: false
+  xy: 132, 98
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Prismatic
+  rotate: false
+  xy: 132, 98
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Properties
+  rotate: false
+  xy: 132, 80
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Struct
+  rotate: false
+  xy: 132, 80
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ProximityPrompt
+  rotate: false
+  xy: 132, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ProximityPromptService
+  rotate: false
+  xy: 132, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RayValue
+  rotate: false
+  xy: 132, 44
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Redo
+  rotate: false
+  xy: 132, 26
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Reference
+  rotate: false
+  xy: 132, 8
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadata
+  rotate: false
+  xy: 153, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataClass
+  rotate: false
+  xy: 153, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataClasses
+  rotate: false
+  xy: 153, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataItem
+  rotate: false
+  xy: 153, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataMember
+  rotate: false
+  xy: 153, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataCallbacks
+  rotate: false
+  xy: 153, 675
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataFunctions
+  rotate: false
+  xy: 153, 675
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataYieldFunctions
+  rotate: false
+  xy: 153, 675
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataEnum
+  rotate: false
+  xy: 171, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataEnumItem
+  rotate: false
+  xy: 171, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataEnums
+  rotate: false
+  xy: 171, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataEvents
+  rotate: false
+  xy: 153, 657
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReflectionMetadataProperties
+  rotate: false
+  xy: 171, 675
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RegularExpression
+  rotate: false
+  xy: 189, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RemoteDebuggerServer
+  rotate: false
+  xy: 153, 639
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RemoteEvent
+  rotate: false
+  xy: 171, 657
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RemoteFunction
+  rotate: false
+  xy: 189, 675
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RenderSettings
+  rotate: false
+  xy: 153, 621
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RenderingTest
+  rotate: false
+  xy: 171, 639
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Replace
+  rotate: false
+  xy: 189, 657
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReplicatedFirst
+  rotate: false
+  xy: 153, 603
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReplicatedStorage
+  rotate: false
+  xy: 171, 621
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ResetPivot
+  rotate: false
+  xy: 189, 639
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Resume
+  rotate: false
+  xy: 153, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReverbSoundEffect
+  rotate: false
+  xy: 171, 603
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RobloxPluginGuiService
+  rotate: false
+  xy: 189, 621
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RobloxReplicatedStorage
+  rotate: false
+  xy: 153, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RodConstraint
+  rotate: false
+  xy: 171, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Rod
+  rotate: false
+  xy: 171, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RopeConstraint
+  rotate: false
+  xy: 189, 603
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RunService
+  rotate: false
+  xy: 153, 549
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Run
+  rotate: false
+  xy: 153, 549
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RunningAverageItemDouble
+  rotate: false
+  xy: 171, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RunningAverageItemInt
+  rotate: false
+  xy: 171, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RunningAverageTimeIntervalItem
+  rotate: false
+  xy: 171, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Stats
+  rotate: false
+  xy: 171, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StatsItem
+  rotate: false
+  xy: 171, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TotalCountTimeIntervalItem
+  rotate: false
+  xy: 171, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RuntimeScriptService
+  rotate: false
+  xy: 189, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RunScript
+  rotate: false
+  xy: 189, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScreenshotHud
+  rotate: false
+  xy: 153, 531
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptAnalysis
+  rotate: false
+  xy: 171, 549
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptContext
+  rotate: false
+  xy: 189, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptDocument
+  rotate: false
+  xy: 171, 531
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptRegistrationService
+  rotate: false
+  xy: 189, 549
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScrollbarTriangle
+  rotate: false
+  xy: 189, 531
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScrollbarUp
+  rotate: false
+  xy: 189, 531
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScrollingFrame
+  rotate: false
+  xy: 207, 693
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Seat
+  rotate: false
+  xy: 207, 675
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Select
+  rotate: false
+  xy: 207, 657
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Select_P
+  rotate: false
+  xy: 207, 657
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectChildren
+  rotate: false
+  xy: 207, 639
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Selection
+  rotate: false
+  xy: 207, 621
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectionBox
+  rotate: false
+  xy: 207, 603
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectionLasso
+  rotate: false
+  xy: 207, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectionPartLasso
+  rotate: false
+  xy: 207, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectionPointLasso
+  rotate: false
+  xy: 207, 585
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectionSphere
+  rotate: false
+  xy: 207, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Separate
+  rotate: false
+  xy: 207, 549
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Server
+  rotate: false
+  xy: 207, 531
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ServerReplicator
+  rotate: false
+  xy: 272, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ServerScriptService
+  rotate: false
+  xy: 290, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ServerStorage
+  rotate: false
+  xy: 308, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Service
+  rotate: false
+  xy: 326, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ServiceProvider
+  rotate: false
+  xy: 344, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Share
+  rotate: false
+  xy: 362, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Shirt
+  rotate: false
+  xy: 380, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ShirtGraphic
+  rotate: false
+  xy: 398, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ShowGrid
+  rotate: false
+  xy: 416, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Skin
+  rotate: false
+  xy: 434, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SlidingBallConstraint
+  rotate: false
+  xy: 452, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 470, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Snap
+  rotate: false
+  xy: 488, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SnippetService
+  rotate: false
+  xy: 506, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Cut
+  rotate: false
+  xy: 506, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Snippet
+  rotate: false
+  xy: 506, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sound
+  rotate: false
+  xy: 524, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SoundGroup
+  rotate: false
+  xy: 542, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SoundService
+  rotate: false
+  xy: 560, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+AudioDiscovery
+  rotate: false
+  xy: 560, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sparkles
+  rotate: false
+  xy: 578, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SpawnerService
+  rotate: false
+  xy: 596, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Spawn
+  rotate: false
+  xy: 596, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SpawnLocation
+  rotate: false
+  xy: 596, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Speaker
+  rotate: false
+  xy: 614, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SphereHandleAdornment
+  rotate: false
+  xy: 632, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SpotLight
+  rotate: false
+  xy: 650, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SpringConstraint
+  rotate: false
+  xy: 668, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Spring
+  rotate: false
+  xy: 668, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StackFrame
+  rotate: false
+  xy: 686, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CallStack
+  rotate: false
+  xy: 686, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StandalonePluginScripts
+  rotate: false
+  xy: 704, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+PluginsFolder
+  rotate: false
+  xy: 704, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StartServerAndClient
+  rotate: false
+  xy: 722, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StarterCharacterScripts
+  rotate: false
+  xy: 740, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StepInto
+  rotate: false
+  xy: 758, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StepOut
+  rotate: false
+  xy: 776, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StepOver
+  rotate: false
+  xy: 794, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Stop
+  rotate: false
+  xy: 812, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StopWatchReporter
+  rotate: false
+  xy: 830, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Strikethrough_Default
+  rotate: false
+  xy: 848, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Strikethrough_Selected
+  rotate: false
+  xy: 866, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Studio
+  rotate: false
+  xy: 884, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioAssetService
+  rotate: false
+  xy: 902, 943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioData
+  rotate: false
+  xy: 920, 944
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioDeviceEmulatorService
+  rotate: false
+  xy: 938, 944
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Device
+  rotate: false
+  xy: 938, 944
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioHighDpiService
+  rotate: false
+  xy: 956, 944
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+StudioService
+  rotate: false
+  xy: 974, 944
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SunRaysEffect
+  rotate: false
+  xy: 992, 946
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SurfaceAppearance
+  rotate: false
+  xy: 139, 893
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SurfaceGui
+  rotate: false
+  xy: 157, 894
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SurfaceGuiBase
+  rotate: false
+  xy: 157, 894
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SurfaceLight
+  rotate: false
+  xy: 138, 875
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SwimController
+  rotate: false
+  xy: 138, 857
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TaskScheduler
+  rotate: false
+  xy: 175, 899
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TeamCreateService
+  rotate: false
+  xy: 149, 839
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TeamCreate
+  rotate: false
+  xy: 149, 839
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Teams
+  rotate: false
+  xy: 149, 821
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TeleportAsyncResult
+  rotate: false
+  xy: 175, 881
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TeleportOptions
+  rotate: false
+  xy: 157, 876
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TemporaryScriptService
+  rotate: false
+  xy: 156, 858
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ScriptPerformance
+  rotate: false
+  xy: 156, 858
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Terrain
+  rotate: false
+  xy: 167, 840
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TerrainEditor
+  rotate: false
+  xy: 167, 840
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TerrainDetail
+  rotate: false
+  xy: 167, 822
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TerrainRegion
+  rotate: false
+  xy: 174, 858
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextBox
+  rotate: false
+  xy: 185, 840
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Field
+  rotate: false
+  xy: 185, 840
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+SelectText
+  rotate: false
+  xy: 185, 840
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextBoxService
+  rotate: false
+  xy: 185, 840
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextButton
+  rotate: false
+  xy: 185, 822
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextChatCommand
+  rotate: false
+  xy: 193, 899
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextChatMessageProperties
+  rotate: false
+  xy: 193, 881
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextChatService
+  rotate: false
+  xy: 211, 900
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextFilterResult
+  rotate: false
+  xy: 211, 882
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextLabel
+  rotate: false
+  xy: 229, 886
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextService
+  rotate: false
+  xy: 192, 863
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TextSource
+  rotate: false
+  xy: 229, 868
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture
+  rotate: false
+  xy: 211, 864
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ThreadState
+  rotate: false
+  xy: 247, 886
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TimerService
+  rotate: false
+  xy: 247, 868
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ToastNotificationService
+  rotate: false
+  xy: 229, 850
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ToolboxService
+  rotate: false
+  xy: 247, 850
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Toolbox
+  rotate: false
+  xy: 247, 850
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TorsionSpringConstraint
+  rotate: false
+  xy: 151, 512
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TorsionSpring
+  rotate: false
+  xy: 151, 512
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TouchTransmitter
+  rotate: false
+  xy: 151, 494
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TracerService
+  rotate: false
+  xy: 151, 476
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Trail
+  rotate: false
+  xy: 151, 458
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Transform
+  rotate: false
+  xy: 151, 440
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TremoloSoundEffect
+  rotate: false
+  xy: 151, 422
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TriangleMeshPart
+  rotate: false
+  xy: 151, 404
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WireframeRendering
+  rotate: false
+  xy: 151, 404
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TrussPart
+  rotate: false
+  xy: 151, 386
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UGCValidationService
+  rotate: false
+  xy: 150, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIAspectRatioConstraint
+  rotate: false
+  xy: 150, 350
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIBase
+  rotate: false
+  xy: 150, 332
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIComponent
+  rotate: false
+  xy: 150, 332
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIConstraint
+  rotate: false
+  xy: 150, 314
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UICorner
+  rotate: false
+  xy: 150, 296
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIGradient
+  rotate: false
+  xy: 150, 278
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIGridLayout
+  rotate: false
+  xy: 150, 260
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Gallery
+  rotate: false
+  xy: 150, 260
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIGridStyleLayout
+  rotate: false
+  xy: 150, 242
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UITableLayout
+  rotate: false
+  xy: 150, 242
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UILayout
+  rotate: false
+  xy: 150, 224
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIListLayout
+  rotate: false
+  xy: 150, 206
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIOff
+  rotate: false
+  xy: 150, 188
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIOn
+  rotate: false
+  xy: 150, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIPadding
+  rotate: false
+  xy: 150, 152
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIPageLayout
+  rotate: false
+  xy: 150, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIScale
+  rotate: false
+  xy: 150, 116
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Scale
+  rotate: false
+  xy: 150, 116
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Scale_P
+  rotate: false
+  xy: 150, 116
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UISizeConstraint
+  rotate: false
+  xy: 150, 98
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UIStroke
+  rotate: false
+  xy: 150, 80
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UITextSizeConstraint
+  rotate: false
+  xy: 150, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MatchWholeWord
+  rotate: false
+  xy: 150, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Underline_Default
+  rotate: false
+  xy: 150, 44
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Underline_Selected
+  rotate: false
+  xy: 150, 26
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Undo
+  rotate: false
+  xy: 150, 8
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Ungroup
+  rotate: false
+  xy: 169, 513
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UniversalConstraint
+  rotate: false
+  xy: 169, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Universal
+  rotate: false
+  xy: 169, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Unlock
+  rotate: false
+  xy: 187, 513
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UnvalidatedAssetService
+  rotate: false
+  xy: 169, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UserSettings
+  rotate: false
+  xy: 187, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UserStorageService
+  rotate: false
+  xy: 205, 513
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VRService
+  rotate: false
+  xy: 169, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ValueBase
+  rotate: false
+  xy: 187, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Property
+  rotate: false
+  xy: 187, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Variable
+  rotate: false
+  xy: 205, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Vector3Value
+  rotate: false
+  xy: 169, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VectorForce
+  rotate: false
+  xy: 187, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VideoCaptureService
+  rotate: false
+  xy: 205, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VideoRecord
+  rotate: false
+  xy: 205, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VideoFrame
+  rotate: false
+  xy: 169, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ViewSelector
+  rotate: false
+  xy: 187, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ViewportFrame
+  rotate: false
+  xy: 205, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ZoomTo
+  rotate: false
+  xy: 205, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Visit
+  rotate: false
+  xy: 169, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VoiceChatInternal
+  rotate: false
+  xy: 187, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VoiceChatService
+  rotate: false
+  xy: 187, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Voicechat
+  rotate: false
+  xy: 187, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+VoiceSource
+  rotate: false
+  xy: 205, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Warning
+  rotate: false
+  xy: 169, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WedgePart
+  rotate: false
+  xy: 187, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Part_Wedge
+  rotate: false
+  xy: 187, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WeldConstraint
+  rotate: false
+  xy: 205, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ShowWelds
+  rotate: false
+  xy: 205, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WireframeHandleAdornment
+  rotate: false
+  xy: 187, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Workspace
+  rotate: false
+  xy: 205, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Place
+  rotate: false
+  xy: 205, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WorldModel
+  rotate: false
+  xy: 205, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WorldRoot
+  rotate: false
+  xy: 205, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WrapTarget
+  rotate: false
+  xy: 992, 928
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ZoomIn
+  rotate: false
+  xy: 203, 845
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ZoomOut
+  rotate: false
+  xy: 203, 827
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+add
+  rotate: false
+  xy: 232, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 113, 739
+  size: 5, 5
+  split: 2, 2, 2, 2
+  pad: 1, 1, 1, 1
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+border-circle
+  rotate: false
+  xy: 223, 498
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+border-left
+  rotate: false
+  xy: 236, 713
+  size: 8, 8
+  split: 1, 0, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+border-right
+  rotate: false
+  xy: 225, 677
+  size: 8, 8
+  split: 0, 1, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+border-xy
+  rotate: false
+  xy: 1014, 1004
+  size: 8, 8
+  split: 0, 0, 1, 1
+  pad: 2, 2, 2, 2
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+border-y
+  rotate: false
+  xy: 225, 667
+  size: 8, 8
+  split: 0, 0, 0, 1
+  pad: 0, 0, 0, 0
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 223, 474
+  size: 14, 22
+  split: 5, 5, 5, 4
+  pad: 5, 5, 2, 2
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+list-background
+  rotate: false
+  xy: 223, 474
+  size: 14, 22
+  split: 6, 6, 4, 4
+  pad: 0, 0, 0, 0
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+button-compact-down
+  rotate: false
+  xy: 977, 982
+  size: 18, 18
+  split: 3, 3, 3, 3
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+button-compact
+  rotate: false
+  xy: 977, 982
+  size: 18, 18
+  split: 2, 2, 2, 2
+  pad: 3, 3, 3, 3
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+button-compact-over
+  rotate: false
+  xy: 997, 982
+  size: 18, 18
+  split: 3, 3, 3, 3
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 223, 450
+  size: 14, 22
+  split: 5, 5, 5, 4
+  pad: 5, 5, 2, 2
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+button-down-blue
+  rotate: false
+  xy: 53, 739
+  size: 18, 18
+  split: 2, 2, 2, 2
+  pad: 0, 0, 0, 0
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+button-compact-blue
+  rotate: false
+  xy: 53, 739
+  size: 18, 18
+  split: 2, 2, 2, 2
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+button-over
+  rotate: false
+  xy: 223, 426
+  size: 14, 22
+  split: 5, 5, 5, 4
+  pad: 5, 5, 2, 2
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+button-round
+  rotate: false
+  xy: 223, 410
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+button-round-down
+  rotate: false
+  xy: 223, 394
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+button-round-over
+  rotate: false
+  xy: 223, 378
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+button-rounded-edge
+  rotate: false
+  xy: 196, 798
+  size: 5, 6
+  split: 2, 2, 2, 2
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+button-rounded-edge-over
+  rotate: false
+  xy: 196, 798
+  size: 5, 6
+  split: 2, 2, 2, 2
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+button-rounded-edge-blue
+  rotate: false
+  xy: 196, 790
+  size: 5, 6
+  split: 2, 2, 2, 2
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+button-rounded-edge-down
+  rotate: false
+  xy: 238, 705
+  size: 5, 6
+  split: 2, 2, 2, 2
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+button-rounded-edges-blue
+  rotate: false
+  xy: 225, 657
+  size: 7, 8
+  split: 2, 2, 2, 2
+  pad: 0, 0, 0, 0
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+button-underline
+  rotate: false
+  xy: 251, 904
+  size: 14, 22
+  split: 5, 5, 5, 4
+  pad: 2, 2, 2, 2
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+camera
+  rotate: false
+  xy: 156, 930
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+camera_object
+  rotate: false
+  xy: 186, 954
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+camera_object_on
+  rotate: false
+  xy: 1, 378
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+checkbox-off
+  rotate: false
+  xy: 73, 739
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+checkbox-off-over
+  rotate: false
+  xy: 93, 739
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+checkbox-on
+  rotate: false
+  xy: 232, 958
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+checkbox-on-over
+  rotate: false
+  xy: 252, 959
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+click
+  rotate: false
+  xy: 255, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 1, 355
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+color
+  rotate: false
+  xy: 278, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+cone
+  rotate: false
+  xy: 1, 332
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+config
+  rotate: false
+  xy: 301, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+config_file
+  rotate: false
+  xy: 1, 309
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+console-background
+  rotate: false
+  xy: 1, 840
+  size: 64, 81
+  split: 23, 22, 42, 23
+  pad: 16, 15, 20, 15
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+copy
+  rotate: false
+  xy: 324, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+cube
+  rotate: false
+  xy: 1, 286
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 59, 782
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+cylinder
+  rotate: false
+  xy: 347, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+default-fileopen
+  rotate: false
+  xy: 221, 832
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+default-folder
+  rotate: false
+  xy: 239, 832
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+default-folder-copy
+  rotate: false
+  xy: 257, 832
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+default-folder-move
+  rotate: false
+  xy: 203, 809
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+default-folder-open
+  rotate: false
+  xy: 221, 814
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+default-pane
+  rotate: false
+  xy: 105, 759
+  size: 5, 3
+  split: 1, 1, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+default-pane-noborder
+  rotate: false
+  xy: 45, 721
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+default-select
+  rotate: false
+  xy: 36, 814
+  size: 27, 24
+  split: 4, 16, 0, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+default-select-over
+  rotate: false
+  xy: 103, 927
+  size: 27, 24
+  split: 4, 16, 0, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+default-select-selection
+  rotate: false
+  xy: 175, 876
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+default_folder_opened
+  rotate: false
+  xy: 239, 814
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+directional-light
+  rotate: false
+  xy: 1, 263
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+directional-light-off
+  rotate: false
+  xy: 370, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 1, 240
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+drive
+  rotate: false
+  xy: 393, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile077
+  rotate: false
+  xy: 393, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+edge
+  rotate: false
+  xy: 1, 217
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+environment
+  rotate: false
+  xy: 416, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+expand-icon
+  rotate: false
+  xy: 257, 814
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+extrude
+  rotate: false
+  xy: 1, 654
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1, 194
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+file
+  rotate: false
+  xy: 439, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+file_scene
+  rotate: false
+  xy: 1, 171
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+fileopen
+  rotate: false
+  xy: 221, 796
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+folder
+  rotate: false
+  xy: 462, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+frame-simple
+  rotate: false
+  xy: 911, 980
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+geometry-on
+  rotate: false
+  xy: 1, 148
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+geometry_icon
+  rotate: false
+  xy: 239, 796
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+help
+  rotate: false
+  xy: 485, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile755
+  rotate: false
+  xy: 485, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+icon-filter
+  rotate: false
+  xy: 1, 125
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+icon-image
+  rotate: false
+  xy: 138, 953
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+icon-light
+  rotate: false
+  xy: 173, 977
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+icon-refresh
+  rotate: false
+  xy: 208, 1001
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+icon-trash
+  rotate: false
+  xy: 1010, 965
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+icon-trash-disabled
+  rotate: false
+  xy: 1010, 948
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+icon-trash-over
+  rotate: false
+  xy: 1010, 931
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+icon-visible-off
+  rotate: false
+  xy: 132, 929
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+icon-visible-on
+  rotate: false
+  xy: 1, 526
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+image_icon
+  rotate: false
+  xy: 257, 796
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+inspect
+  rotate: false
+  xy: 508, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+inspect_file
+  rotate: false
+  xy: 1, 102
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+invisible
+  rotate: false
+  xy: 531, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1, 79
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+library-up
+  rotate: false
+  xy: 223, 514
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 554, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+light_object
+  rotate: false
+  xy: 1, 56
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+light_object_on
+  rotate: false
+  xy: 577, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+lighting_icon
+  rotate: false
+  xy: 203, 791
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lights_icon
+  rotate: false
+  xy: 221, 778
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+linked
+  rotate: false
+  xy: 1, 33
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+locked
+  rotate: false
+  xy: 600, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+log
+  rotate: false
+  xy: 1, 10
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+log_view
+  rotate: false
+  xy: 623, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+logo16
+  rotate: false
+  xy: 239, 778
+  size: 16, 16
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+logo24
+  rotate: false
+  xy: 1, 628
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+material
+  rotate: false
+  xy: 646, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+material-on
+  rotate: false
+  xy: 669, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+material_file
+  rotate: false
+  xy: 692, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+materials_icon
+  rotate: false
+  xy: 257, 778
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+menu-button
+  rotate: false
+  xy: 265, 880
+  size: 14, 22
+  split: 5, 5, 5, 4
+  pad: 5, 5, 2, 2
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+mesh
+  rotate: false
+  xy: 715, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+mesh_down
+  rotate: false
+  xy: 738, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile602
+  rotate: false
+  xy: 738, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+minus
+  rotate: false
+  xy: 761, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+model-geometry
+  rotate: false
+  xy: 784, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+wire_cube
+  rotate: false
+  xy: 784, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+model_file
+  rotate: false
+  xy: 203, 773
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+new-folder
+  rotate: false
+  xy: 807, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+object_locked
+  rotate: false
+  xy: 830, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+orthogonal-view
+  rotate: false
+  xy: 1, 602
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+overflow-menu
+  rotate: false
+  xy: 853, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+perspective-view
+  rotate: false
+  xy: 1, 576
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+plane
+  rotate: false
+  xy: 876, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+play_icon
+  rotate: false
+  xy: 203, 755
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 899, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+point-light
+  rotate: false
+  xy: 922, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+point-light-off
+  rotate: false
+  xy: 945, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+popup-menu
+  rotate: false
+  xy: 162, 953
+  size: 22, 22
+  split: 7, 7, 7, 7
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+progressbar
+  rotate: false
+  xy: 235, 669
+  size: 1, 16
+  orig: 1, 16
+  offset: 0, 0
+  index: -1
+progressbar-filled
+  rotate: false
+  xy: 62, 807
+  size: 1, 5
+  orig: 1, 5
+  offset: 0, 0
+  index: -1
+progressbar-filled-vertical
+  rotate: false
+  xy: 210, 711
+  size: 5, 1
+  orig: 5, 1
+  offset: 0, 0
+  index: -1
+progressbar-narrow
+  rotate: false
+  xy: 27, 726
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 27, 726
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+progressbar-narrow-filled-grey
+  rotate: false
+  xy: 117, 715
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+progressbar-vertical
+  rotate: false
+  xy: 1, 7
+  size: 16, 1
+  orig: 16, 1
+  offset: 0, 0
+  index: -1
+remove
+  rotate: false
+  xy: 968, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 991, 1002
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+rotate_tool_icon
+  rotate: false
+  xy: 221, 760
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rounded-button
+  rotate: false
+  xy: 265, 864
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+rounded-button-dark
+  rotate: false
+  xy: 920, 928
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+rounded-button-down
+  rotate: false
+  xy: 936, 928
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+rounded-button-over
+  rotate: false
+  xy: 952, 928
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+rounded-rectangle
+  rotate: false
+  xy: 968, 928
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+rounded-rectangle-blue
+  rotate: false
+  xy: 167, 806
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+rounded-rectangle-blue-up
+  rotate: false
+  xy: 183, 806
+  size: 14, 14
+  split: 6, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+scale_tool_icon
+  rotate: false
+  xy: 239, 760
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+scene
+  rotate: false
+  xy: 36, 765
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+scene_view
+  rotate: false
+  xy: 30, 742
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: false
+  xy: 225, 649
+  size: 5, 6
+  split: 2, 2, 2, 2
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+scroll-horizontal
+  rotate: false
+  xy: 114, 1
+  size: 6, 5
+  split: 2, 2, 0, 5
+  pad: -1, -1, 2, 2
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+scroll-knob-horizontal
+  rotate: false
+  xy: 180, 783
+  size: 6, 5
+  split: 2, 2, 0, 5
+  pad: -1, -1, 2, 2
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+scroll-knob-vertical
+  rotate: false
+  xy: 238, 697
+  size: 5, 6
+  split: 2, 2, 2, 2
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+select-down
+  rotate: false
+  xy: 1, 1
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+selection-anchor
+  rotate: false
+  xy: 1014, 1014
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+selection_tool_icon
+  rotate: false
+  xy: 257, 760
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+settings_icon
+  rotate: false
+  xy: 221, 742
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+settings_list
+  rotate: false
+  xy: 209, 954
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+shaded_icon
+  rotate: false
+  xy: 239, 742
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 180, 790
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+slider-vertical
+  rotate: false
+  xy: 30, 765
+  size: 4, 1
+  orig: 4, 1
+  offset: 0, 0
+  index: -1
+snap-off
+  rotate: false
+  xy: 67, 828
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+snap-on
+  rotate: false
+  xy: 90, 828
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+snap_icon
+  rotate: false
+  xy: 257, 742
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+solid_icon
+  rotate: false
+  xy: 210, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spin-down-insensitive
+  rotate: false
+  xy: 210, 714
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+spin-down-pressed
+  rotate: false
+  xy: 265, 854
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+spin-up-insensitive
+  rotate: false
+  xy: 223, 713
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+spin-up-pressed
+  rotate: false
+  xy: 225, 703
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+splitpane-horizontal-pressed
+  rotate: false
+  xy: 48, 739
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+splitpane-vertical-pressed
+  rotate: false
+  xy: 108, 801
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+spot-light
+  rotate: false
+  xy: 65, 805
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+spot-light-off
+  rotate: false
+  xy: 88, 805
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+stats
+  rotate: false
+  xy: 62, 782
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+sub-menu
+  rotate: false
+  xy: 225, 640
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+tab_over
+  rotate: false
+  xy: 203, 747
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+tab_down
+  rotate: false
+  xy: 203, 747
+  size: 11, 6
+  split: 3, 3, 3, 2
+  pad: 4, 5, 3, 2
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+tab_panel
+  rotate: false
+  xy: 225, 687
+  size: 11, 6
+  split: 4, 5, 2, 3
+  pad: 3, 3, 2, 3
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+tab_up
+  rotate: false
+  xy: 225, 695
+  size: 11, 6
+  split: 3, 3, 3, 2
+  pad: 4, 5, 3, 2
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+terminal
+  rotate: false
+  xy: 85, 782
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 246, 708
+  size: 14, 14
+  split: 2, 2, 3, 2
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+textfield-light
+  rotate: false
+  xy: 262, 708
+  size: 14, 14
+  split: 3, 3, 4, 3
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+textfield-light-over
+  rotate: false
+  xy: 278, 708
+  size: 14, 14
+  split: 3, 3, 4, 3
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+textfield-over
+  rotate: false
+  xy: 278, 708
+  size: 14, 14
+  split: 2, 2, 3, 2
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+textfield-pressed
+  rotate: false
+  xy: 933, 980
+  size: 20, 20
+  split: 3, 3, 4, 3
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+texture
+  rotate: false
+  xy: 59, 759
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+texture-off
+  rotate: false
+  xy: 82, 759
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+thumbnail
+  rotate: false
+  xy: 53, 759
+  size: 4, 4
+  split: 1, 2, 1, 2
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+thumbnail-over
+  rotate: false
+  xy: 10, 1
+  size: 4, 4
+  split: 1, 2, 1, 2
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+tile093
+  rotate: false
+  xy: 221, 978
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile094
+  rotate: false
+  xy: 244, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile156
+  rotate: false
+  xy: 267, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile157
+  rotate: false
+  xy: 290, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile158
+  rotate: false
+  xy: 313, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile159
+  rotate: false
+  xy: 336, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile185
+  rotate: false
+  xy: 359, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+object
+  rotate: false
+  xy: 359, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile472
+  rotate: false
+  xy: 382, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile494
+  rotate: false
+  xy: 405, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile520
+  rotate: false
+  xy: 428, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile522
+  rotate: false
+  xy: 451, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile524
+  rotate: false
+  xy: 474, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile580
+  rotate: false
+  xy: 497, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile598
+  rotate: false
+  xy: 520, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile656
+  rotate: false
+  xy: 543, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile663
+  rotate: false
+  xy: 566, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+gear
+  rotate: false
+  xy: 566, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile676
+  rotate: false
+  xy: 589, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile740
+  rotate: false
+  xy: 612, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tile741
+  rotate: false
+  xy: 635, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tool-conuslight
+  rotate: false
+  xy: 1, 501
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+tool-mesh
+  rotate: false
+  xy: 1, 476
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+tool-move
+  rotate: false
+  xy: 1, 451
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+tool-sphericlight
+  rotate: false
+  xy: 1, 426
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+tool-transform
+  rotate: false
+  xy: 1, 401
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+torus
+  rotate: false
+  xy: 658, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+touchpad
+  rotate: false
+  xy: 1, 923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+touchpad-knob
+  rotate: false
+  xy: 197, 977
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+transform_icon
+  rotate: false
+  xy: 228, 723
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+translate_tool_icon
+  rotate: false
+  xy: 246, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 1, 550
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tree-selection
+  rotate: false
+  xy: 267, 904
+  size: 14, 22
+  split: 5, 5, 5, 4
+  pad: 5, 5, 2, 2
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+unlinked
+  rotate: false
+  xy: 681, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+unlocked
+  rotate: false
+  xy: 704, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 727, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+vertex
+  rotate: false
+  xy: 750, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+view_shaded
+  rotate: false
+  xy: 773, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+view_solid
+  rotate: false
+  xy: 796, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+view_textured
+  rotate: false
+  xy: 819, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+view_wireframe
+  rotate: false
+  xy: 842, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+visible
+  rotate: false
+  xy: 865, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 217, 711
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+white-pad
+    rotate: false
+    xy: 217, 711
+    size: 1, 1
+    orig: 1, 1
+    offset: 0, 0
+    index: -1
+white-pixel
+  rotate: false
+  xy: 217, 711
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+window-action-close
+  rotate: false
+  xy: 103, 1001
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-action-close-down
+  rotate: false
+  xy: 1, 816
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-action-close-over
+  rotate: false
+  xy: 67, 899
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-action-restore-hover
+  rotate: false
+  xy: 103, 977
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-action-restore-normal
+  rotate: false
+  xy: 138, 1001
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-action-restore-pressed
+  rotate: false
+  xy: 1, 792
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-close
+  rotate: false
+  xy: 955, 980
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+window-iconify
+  rotate: false
+  xy: 67, 875
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-iconify-down
+  rotate: false
+  xy: 103, 953
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-iconify-over
+  rotate: false
+  xy: 138, 977
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-maximize
+  rotate: false
+  xy: 173, 1001
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-maximize-down
+  rotate: false
+  xy: 1, 768
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-maximize-over
+  rotate: false
+  xy: 67, 851
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+window-noborder
+  rotate: false
+  xy: 1, 732
+  size: 27, 34
+  split: 5, 4, 26, 3
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+wire-sphere
+  rotate: false
+  xy: 888, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+sphere
+  rotate: false
+  xy: 888, 979
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+wireframe_icon
+  rotate: false
+  xy: 264, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+icon_textfield_left
+  rotate: false
+  xy: 984, 931
+  size: 6, 11
+  split: 3, 2, 3, 3
+  pad: 3, 2, 5, 4
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+icon_textfield_right
+  rotate: false
+  xy: 221, 851
+  size: 6, 11
+  split: 2, 3, 4, 5
+  pad: 2, 3, 3, 3
+  orig: 6, 11
+  offset: 0, 0
+  index: -1

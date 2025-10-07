@@ -20,6 +20,8 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '8.1.1'
 }
 
+
+
 group = 'dev.jamiecrown.gdx'
 version = "${projectVersion}"
 
@@ -48,6 +50,7 @@ dependencies {
         api(project(":picking"))
         api(project(":scenegraph"))
         api(project(":test"))
+        api(project(":state"))
     }
 }
 
@@ -82,14 +85,21 @@ publishing {
     }
 }
 
+
+
 subprojects {
     apply plugin: 'org.jetbrains.kotlin.jvm'
     apply plugin: 'java-library'
     apply plugin: 'maven-publish'
     apply plugin: 'com.github.johnrengelman.shadow'
+    apply plugin: 'kotlinx-serialization'
+
+//    apply from: project.gradle.gradleUserHomeDir.path + "/project.gradle"
 
     group = rootProject.group
     version = rootProject.version
+
+
 
     repositories {
         mavenCentral()
@@ -117,6 +127,8 @@ subprojects {
         }
     }
 
+
+
     dependencies {
         implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
         implementation fileTree(dir: rootProject.file('libs'), include: '*.jar')
@@ -128,6 +140,32 @@ subprojects {
         implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
         implementation "com.badlogicgames.gdx:gdx-backend-headless:$gdxVersion"
         implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+        implementation("org.eclipse.lsp4j:org.eclipse.lsp4j:0.21.0") // Check for the latest version
+        testImplementation("org.assertj:assertj-core:3.27.3")
+        implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:$kotlinxSerializationVersion"
+
+        implementation "io.github.libktx:ktx-inject:$ktxVersion"
+        implementation "io.github.libktx:ktx-collections:$ktxVersion"
+        implementation "io.github.libktx:ktx-graphics:$ktxVersion"
+        implementation "io.github.libktx:ktx-scene2d:$ktxVersion"
+        implementation "io.github.libktx:ktx-app:$ktxVersion"
+        implementation "io.github.libktx:ktx-assets:$ktxVersion"
+        implementation "io.github.libktx:ktx-async:$ktxVersion"
+        implementation "io.github.libktx:ktx-json:$ktxVersion"
+        implementation "io.github.libktx:ktx-math:$ktxVersion"
+        implementation "io.github.libktx:ktx-style:$ktxVersion"
+        implementation "io.github.libktx:ktx-vis:$ktxVersion"
+        implementation "io.github.libktx:ktx-actors:$ktxVersion"
+        implementation "io.github.libktx:ktx-vis:$ktxVersion"
+        implementation "io.github.libktx:ktx-ashley:$ktxVersion"
+        implementation "io.github.libktx:ktx-assets-async:$ktxVersion"
+        // SLF4J API
+        implementation 'org.slf4j:slf4j-api:2.0.12' // Use the latest stable version
+        implementation "com.github.mgsx-dev.gdx-gltf:gltf:$gltfVersion"
+
+        // SLF4J binding (choose one)
+        // For Logback:
+        implementation 'ch.qos.logback:logback-classic:1.4.14' // Use the latest stable version
 
 
         testImplementation 'org.junit.jupiter:junit-jupiter-api'
@@ -153,11 +191,17 @@ subprojects {
         kotlinOptions {
             jvmTarget = rootProject.ext.jvmVersion
             freeCompilerArgs += "-Xopt-in=kotlin.RequiresOptIn"
+            freeCompilerArgs += "-Xopt-in=kotlin.ExperimentalStdlibApi"
         }
     }
 
     test {
         useJUnitPlatform()
+        testLogging {
+            showStandardStreams = true
+            events "passed", "skipped", "failed"
+        }
+        jvmArgs = ['-Xmx2G', '-XstartOnFirstThread'] // Adjust memory settings as needed
     }
 
     sourceSets {
@@ -221,6 +265,9 @@ subprojects {
         }
     }
 }
+
+apply from: project.gradle.gradleUserHomeDir.path + "/project.gradle"
+
 // Add these extensions to rootProject.ext
 ext {
     kotlinxModulesArray = [""] as String[] // Kept for consistency if needed by other parts
@@ -232,3 +279,27 @@ ext {
     snapshotsPassword = ""
     releasesPassword = ""
 }
+
+static void writeFile(String path, String content) {
+    File file = new File(path)
+    file.parentFile.mkdirs()
+    file.text = content
+}
+
+task initBuild { task ->
+    println "Initializing build..."
+    def requiredProps = ['repositoryUrl', 'repositoryUsername', 'repositoryPassword']
+    requiredProps.each { prop ->
+        if (project.findProperty(prop) == null) {
+            throw new GradleException("Property '${prop}' is not set. Please define it in gradle.properties or via command line.")
+        }
+    }
+    println "All required properties are set."
+
+    def os = org.gradle.internal.os.OperatingSystem.current()
+    def time = new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
+    println "Initializing build for $os at $time; $version on JDK ${System.getProperty('java.version')} (${System.getProperty('java.vendor')})"
+}
+
+
+
